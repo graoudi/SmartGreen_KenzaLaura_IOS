@@ -5,7 +5,7 @@ remplacez TARGET_OS_WATCHOS par TARGET_OS_WATCH
 
 
 Commande que nous avons executé dans le terminal pour le pod:
- sudo gem install cocoapods
+ sudo gem install cocoapods puis 
  pod init 
  
  Si vous n'avez pas pod installez sur votre ordinateur , entrez la commande suivante dans votre terminal
