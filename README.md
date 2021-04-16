@@ -11,4 +11,4 @@ Commande que nous avons executé dans le terminal pour le pod:
  Si vous n'avez pas pod installez sur votre ordinateur , entrez la commande suivante dans votre terminal
  (à l'endroit ou est situé votre projet) :  pod install
  
- Pour run le projet, ouvre le fichier contenant l'extension "xcworkspace"
+ Pour run le projet, ouvrez le fichier contenant l'extension "xcworkspace"
