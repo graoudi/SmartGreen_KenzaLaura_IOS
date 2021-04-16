@@ -4,7 +4,7 @@ Si vous avez l'erreur suivante : error: 'TARGET_OS_WATCHOS' is not defined, eval
 remplacez TARGET_OS_WATCHOS par TARGET_OS_WATCH
 
 
-Commande executez dans le terminal pour le pod:
+Commande que nous avons executé dans le terminal pour le pod:
  sudo gem install cocoapods
  pod init 
  
